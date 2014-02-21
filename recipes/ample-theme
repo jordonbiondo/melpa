@@ -1,1 +1,2 @@
-(ample-theme :fetcher github :repo "jordonbiondo/ample-theme")
+(ample-theme :fetcher github :repo "jordonbiondo/ample-theme"
+	     :files ("*.el"))
